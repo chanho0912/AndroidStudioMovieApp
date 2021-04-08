@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463343479588",
+    "firebase_url": "https://appproj-5d34e.firebaseio.com",
+    "project_id": "appproj-5d34e",
+    "storage_bucket": "appproj-5d34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463343479588:android:f43fa65258b347f9e721b1",
+        "android_client_info": {
+          "package_name": "edu.skku.map.a2016310526_personalproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463343479588-fu8m1h6ih15pe9b1j3gumor8s7d0dqg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.map.a2016310526_personalproj",
+            "certificate_hash": "b3554ffef1051b3b37a2c5211f6cd18ee8716b22"
+          }
+        },
+        {
+          "client_id": "463343479588-bkh9cfbf6nui066eeqhdgqfg7mmlif96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9aWmlrJQpfU0C8zfOhlYKsRPQvWfuos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463343479588-bkh9cfbf6nui066eeqhdgqfg7mmlif96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
