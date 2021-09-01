@@ -1,6 +1,6 @@
-# AndroidStudioMovieApp
+# MovieTrip
 
-# Tmdb Api
+# Tmdb API
 * Make movie App using tmdb api
 
 # UI/UX
